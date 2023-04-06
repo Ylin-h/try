@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"github-enterprise.uri": "https://github.comhttps"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
