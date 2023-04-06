@@ -8,6 +8,7 @@ public class login {
         while(n!=0)
         {
             n--;
+        System.out.println("请输入正确的用户名和密码：");
         String user=myScanner.next();
         String psw=myScanner.next();
         if(user.equals(s1)&&psw.equals(s2))
